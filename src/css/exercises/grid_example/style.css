@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.grid-container {
+    border: 2px solid grey;
+}
+
+div {
+    padding: 20px 0;
+    background-color: #E91E62;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
